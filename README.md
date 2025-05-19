@@ -16,7 +16,7 @@ Customize daily earnings, track contest rewards, and visualize your progress —
 
 - 🔗 [Visit LeetCoin Tracker](https://leetcoin-tracker.vercel.app/)
 
-A sleek and responsive web app that lets you track your LeetCoins just like cryptocurrency—complete with light/dark mode, animated icons, and real-time interactions. Designed for LeetCode lovers!
+A sleek and responsive web app that lets you track your LeetCoins —complete with light/dark mode, animated icons, and real-time interactions. Designed for LeetCode lovers!
 
 ---
 
