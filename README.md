@@ -23,8 +23,6 @@ Customize daily earnings, track contest rewards, and visualize your progress —
 - LeetCode and LeetCoin branding
 - Responsive design
 
----
-
 ## 🛠️ Built With
 
 - HTML5  
@@ -32,11 +30,7 @@ Customize daily earnings, track contest rewards, and visualize your progress —
 - JavaScript  
 - [Lucide Icons](https://lucide.dev) for theme icons  
 
----
-
 ## 🤝 Credits
 
 - Made with ❤️ by **Lasya Priya PSS**  
 - LeetCode logos © LeetCode Inc.
-
----
