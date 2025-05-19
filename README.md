@@ -14,7 +14,7 @@ Customize daily earnings, track contest rewards, and visualize your progress —
 
 ## 💻 Demo
 
-- Check out the live version:  [LeetCoin Tracker](leetcoin-tracker.vercel.app)
+- Check out the live version: leetcoin-tracker.vercel.app
 
 ## 🚀 Features
 
