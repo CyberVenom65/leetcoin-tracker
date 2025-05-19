@@ -16,7 +16,7 @@ Customize daily earnings, track contest rewards, and visualize your progress —
 
 - Check out the live version:   leetcoin-tracker.vercel.app
 
-**##** 🛠️ **Built With**
+   🛠️ **Built With**
 - HTML5
 - CSS3 (Custom theming with CSS variables)
 - JavaScript
